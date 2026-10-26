@@ -13,7 +13,7 @@ B.Tech Computer Science (AI & ML) student at Axis Institute of Technology and Ma
 
 | Project | Description |
 |---|---|
-| [Milk-Guard](https://github.com/aryansrivastava707-cpu/Milk-Guard) | Milk quality screening prototype: pH, TDS and temperature readings go to a Flask app with a Random Forest model (trained on synthetic demo data). ESP32 connectivity is an optional extension |
+| [Milk-Guard](https://github.com/aryansrivastava707-cpu/Milk-Guard) | Milk quality screening prototype: pH, TDS and temperature readings go to a Flask app that returns a Normal/Suspicious result using rule-based checks, with Supabase history. Includes a Random Forest training script on synthetic demo data |
 | [SatarkAI](https://github.com/aryansrivastava707-cpu/SatarkAI) | Scam message checker for SMS, WhatsApp and email with rule-based checks and an optional ML prototype |
 | [Resume-Verification](https://github.com/aryansrivastava707-cpu/Resume-Verification) | Resume verification platform with a trust score and claim-by-claim verdicts (FastAPI) |
 | [Driver-Drowsiness-Detection](https://github.com/aryansrivastava707-cpu/Driver-Drowsiness-Detection) | Webcam prototype using MediaPipe and Eye Aspect Ratio to flag prolonged eye closure. Not tested in a real vehicle |
