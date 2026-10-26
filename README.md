@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Aryan Srivastava
 
-<!--
-**aryansrivastava707-cpu/aryansrivastava707-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Computer Science (AI & ML) student at Axis Institute of Technology and Management, Kanpur (expected 2029). I build small, honest prototypes in Python, Flask and React, and I'm looking for Software Engineer opportunities.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python (primary), C++ (beginner), HTML5, JavaScript
+- **Used in projects:** Flask, FastAPI, React, Vite, OpenCV, MediaPipe
+- **Databases:** MongoDB (RAG, AI agents, Vector Search basics)
+- **Other:** Cybersecurity (foundational), Git, GitHub
+
+## Projects
+
+| Project | Description |
+|---|---|
+| [Milk-Guard](https://github.com/aryansrivastava707-cpu/Milk-Guard) | Milk quality screening prototype: pH, TDS and temperature readings go to a Flask app with a Random Forest model (trained on synthetic demo data). ESP32 connectivity is an optional extension |
+| [SatarkAI](https://github.com/aryansrivastava707-cpu/SatarkAI) | Scam message checker for SMS, WhatsApp and email with rule-based checks and an optional ML prototype |
+| [Resume-Verification](https://github.com/aryansrivastava707-cpu/Resume-Verification) | Resume verification platform with a trust score and claim-by-claim verdicts (FastAPI) |
+| [Driver-Drowsiness-Detection](https://github.com/aryansrivastava707-cpu/Driver-Drowsiness-Detection) | Webcam prototype using MediaPipe and Eye Aspect Ratio to flag prolonged eye closure. Not tested in a real vehicle |
+| [Smart-Medicine-Box](https://github.com/aryansrivastava707-cpu/Smart-Medicine-Box) | Medication management dashboard (React + Vite) running on simulated data in Demo Mode |
+
+All projects are student prototypes.
+
+## Links
+
+- Portfolio: https://aryansrivastava-portfolio-dev.netlify.app/
+- LinkedIn: https://www.linkedin.com/in/aryan-srivastava-4a2467442
+- Email: aryansrivastava707@gmail.com
