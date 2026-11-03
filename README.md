@@ -24,6 +24,8 @@ Second-year B.Tech CSE (AI & ML) student at **Dr. A.P.J. Abdul Kalam Technical U
 
 ## 🚀 Featured Projects
 
+### AI, IoT & Web Apps
+
 | Project | What it does | Tech |
 |---|---|---|
 | [**Milk-Guard**](https://github.com/aryansrivastava707-cpu/Milk-Guard) | Smart milk quality screening system that analyses pH, TDS and temperature readings from ESP32 sensors using a machine learning model. | ESP32, Flask, ML, HTML |
@@ -32,12 +34,23 @@ Second-year B.Tech CSE (AI & ML) student at **Dr. A.P.J. Abdul Kalam Technical U
 | [**Driver-Drowsiness-Detection**](https://github.com/aryansrivastava707-cpu/Driver-Drowsiness-Detection) | Webcam-based drowsiness detection prototype using Eye Aspect Ratio (EAR). | Python, OpenCV, MediaPipe |
 | [**Smart-Medicine-Box**](https://github.com/aryansrivastava707-cpu/Smart-Medicine-Box) | Responsive healthcare dashboard for medication reminders, schedules, compartment monitoring and history. ESP32-ready. | JavaScript, IoT |
 
+### Python Side Projects (standard library only)
+
+Small tools built from scratch to understand how things work. Each has its own tests and an honest list of limitations in its README.
+
+| Project | What it does | Tech |
+|---|---|---|
+| [**git-archaeologist**](https://github.com/aryansrivastava707-cpu/git-archaeologist) | Terminal report on any git repo: most-changed files, bus factor, work rhythm and stale files. | Python, git |
+| [**typing-fingerprint**](https://github.com/aryansrivastava707-cpu/typing-fingerprint) | Keystroke-dynamics demo that learns how you type a phrase and checks whether a new attempt looks like you. | Python, JavaScript |
+| [**tinyrag**](https://github.com/aryansrivastava707-cpu/tinyrag) | The retrieval half of RAG built from scratch: chunking, BM25 scoring and answer-sentence selection over your own notes. | Python |
+| [**gene-timetable**](https://github.com/aryansrivastava707-cpu/gene-timetable) | Genetic algorithm that builds a weekly class timetable and drives out teacher, room and section clashes. | Python |
+| [**log-sentinel**](https://github.com/aryansrivastava707-cpu/log-sentinel) | Flags traffic spikes, login guessing and path scanning in web-server access logs and writes an HTML report. | Python |
+
 ---
 
 ## 🎯 Currently
 
-- Strengthening my foundations in data structures, algorithms and SQL
-- Building more AI/ML and IoT projects
+- Building small projects from scratch to understand the ideas behind them
 - Taking part in hackathons and learning from teammates
 
 ---
