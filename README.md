@@ -18,13 +18,15 @@ Second-year B.Tech CSE (AI & ML) student at **Dr. A.P.J. Abdul Kalam Technical U
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
-
-### AI, IoT & Web Apps
+## 🚀 Projects
 
 | Project | What it does | Tech |
 |---|---|---|
@@ -33,18 +35,11 @@ Second-year B.Tech CSE (AI & ML) student at **Dr. A.P.J. Abdul Kalam Technical U
 | [**Resume-Verification**](https://github.com/aryansrivastava707-cpu/Resume-Verification) | Upload a resume and get a trust score with claim-by-claim verdicts (verified, doubtful, fake). | Python, FastAPI |
 | [**Driver-Drowsiness-Detection**](https://github.com/aryansrivastava707-cpu/Driver-Drowsiness-Detection) | Webcam-based drowsiness detection prototype using Eye Aspect Ratio (EAR). | Python, OpenCV, MediaPipe |
 | [**Smart-Medicine-Box**](https://github.com/aryansrivastava707-cpu/Smart-Medicine-Box) | Responsive healthcare dashboard for medication reminders, schedules, compartment monitoring and history. ESP32-ready. | JavaScript, IoT |
-
-### Python Side Projects (standard library only)
-
-Small tools built from scratch to understand how things work. Each has its own tests and an honest list of limitations in its README.
-
-| Project | What it does | Tech |
-|---|---|---|
-| [**git-archaeologist**](https://github.com/aryansrivastava707-cpu/git-archaeologist) | Terminal report on any git repo: most-changed files, bus factor, work rhythm and stale files. | Python, git |
-| [**typing-fingerprint**](https://github.com/aryansrivastava707-cpu/typing-fingerprint) | Keystroke-dynamics demo that learns how you type a phrase and checks whether a new attempt looks like you. | Python, JavaScript |
-| [**tinyrag**](https://github.com/aryansrivastava707-cpu/tinyrag) | The retrieval half of RAG built from scratch: chunking, BM25 scoring and answer-sentence selection over your own notes. | Python |
-| [**gene-timetable**](https://github.com/aryansrivastava707-cpu/gene-timetable) | Genetic algorithm that builds a weekly class timetable and drives out teacher, room and section clashes. | Python |
-| [**log-sentinel**](https://github.com/aryansrivastava707-cpu/log-sentinel) | Flags traffic spikes, login guessing and path scanning in web-server access logs and writes an HTML report. | Python |
+| [**git-archaeologist**](https://github.com/aryansrivastava707-cpu/git-archaeologist) | Analyses a repo's git history (hotspots, bus factor, work rhythm, stale files) and shows it in an offline dashboard. | Python, JavaScript, HTML, CSS |
+| [**typing-fingerprint**](https://github.com/aryansrivastava707-cpu/typing-fingerprint) | Keystroke-dynamics demo: learns how you type a phrase and checks whether a new attempt looks like you. | Python, React, TypeScript, Vite |
+| [**tinyrag**](https://github.com/aryansrivastava707-cpu/tinyrag) | Local BM25 retrieval over your own notes, with an optional MongoDB Atlas Vector Search adapter for your own embeddings. | Python, MongoDB Atlas (optional) |
+| [**gene-timetable**](https://github.com/aryansrivastava707-cpu/gene-timetable) | Genetic-algorithm solver that builds a weekly class timetable and exports it as HTML. | TypeScript, Node.js |
+| [**log-sentinel**](https://github.com/aryansrivastava707-cpu/log-sentinel) | Flags traffic spikes, login guessing and path scanning in access logs; an optional Solidity contract anchors a report's hash. | Python, Solidity |
 
 ---
 
