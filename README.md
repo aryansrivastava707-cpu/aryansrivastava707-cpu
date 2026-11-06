@@ -1,10 +1,9 @@
-[![PORTFOLIO · VISIT](https://img.shields.io/badge/🌐%20PORTFOLIO-VISIT-0D9488?style=flat-square&labelColor=252A34&logoColor=white)](https://aryansrivastava-portfolio-dev.netlify.app)
+[![GITHUB](https://img.shields.io/badge/GITHUB-FOLLOW-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryansrivastava707-cpu) [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-srivastava-4a2467442) [![PORTFOLIO](https://img.shields.io/badge/🌐%20PORTFOLIO-VISIT-0D9488?style=for-the-badge&labelColor=252A34&logoColor=white)](https://aryansrivastava-portfolio-dev.netlify.app)
 
 # Hi, I'm Aryan Srivastava 👋
 
 Second-year B.Tech CSE (AI & ML) student at **Axis Institute of Technology and Management**, Kanpur (affiliated to Dr. A.P.J. Abdul Kalam Technical University, AKTU). I like building practical projects that mix software, machine learning and IoT, and I'm open to internships and entry-level software roles.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anam-haider-3a3654396)
 
 ---
 
@@ -66,6 +65,6 @@ Second-year B.Tech CSE (AI & ML) student at **Axis Institute of Technology and M
 ## 📫 Let's connect
 
 - 🌐 Portfolio: [aryansrivastava-portfolio-dev.netlify.app](https://aryansrivastava-portfolio-dev.netlify.app)
-- 💼 LinkedIn: [linkedin.com/in/anam-haider-3a3654396](https://www.linkedin.com/in/anam-haider-3a3654396)
+- 💼 LinkedIn: [linkedin.com/in/aryan-srivastava-4a2467442](https://www.linkedin.com/in/aryan-srivastava-4a2467442)
 
 ⭐ If you like any of my projects, a star on the repo means a lot!
