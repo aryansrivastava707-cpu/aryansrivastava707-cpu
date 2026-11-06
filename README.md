@@ -1,4 +1,4 @@
-[![GITHUB](https://img.shields.io/badge/GITHUB-FOLLOW-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryansrivastava707-cpu) [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-srivastava-4a2467442) [![PORTFOLIO](https://img.shields.io/badge/🌐%20PORTFOLIO-VISIT-0D9488?style=for-the-badge&labelColor=252A34&logoColor=white)](https://aryansrivastava-portfolio-dev.netlify.app)
+[![GITHUB](https://img.shields.io/badge/GITHUB-FOLLOW-111111?style=for-the-badge&labelColor=555555&logo=github&logoColor=white)](https://github.com/aryansrivastava707-cpu) [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&labelColor=555555&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-srivastava-4a2467442) [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-VISIT-0D9488?style=for-the-badge&labelColor=252A34&logo=googlechrome&logoColor=white)](https://aryansrivastava-portfolio-dev.netlify.app)
 
 # Hi, I'm Aryan Srivastava 👋
 
