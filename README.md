@@ -1,8 +1,9 @@
-[![GITHUB](https://img.shields.io/badge/GITHUB-FOLLOW-111111?style=for-the-badge&labelColor=555555&logo=github&logoColor=white)](https://github.com/aryansrivastava707-cpu) [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&labelColor=555555&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-srivastava-4a2467442) [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-VISIT-0D9488?style=for-the-badge&labelColor=252A34&logo=googlechrome&logoColor=white)](https://aryansrivastava-portfolio-dev.netlify.app)
 
 # Hi, I'm Aryan Srivastava 👋
 
 Second-year B.Tech CSE (AI & ML) student at **Axis Institute of Technology and Management**, Kanpur (affiliated to Dr. A.P.J. Abdul Kalam Technical University, AKTU). I like building practical projects that mix software, machine learning and IoT, and I'm open to internships and entry-level software roles.
+
+[![GITHUB](https://img.shields.io/badge/GITHUB-FOLLOW-111111?style=for-the-badge&labelColor=555555&logo=github&logoColor=white)](https://github.com/aryansrivastava707-cpu) [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&labelColor=555555&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-srivastava-4a2467442) [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-VISIT-0D9488?style=for-the-badge&labelColor=252A34&logo=googlechrome&logoColor=white)](https://aryansrivastava-portfolio-dev.netlify.app)
 
 
 ---
